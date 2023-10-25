@@ -52,7 +52,7 @@ Open the `code-along.html` file and complete the tasks. As I write code, make su
 
 ## Code Solo
 
-Next, open the `code-solo.html` file and complete the tasks. Again, as I write code, you should also be writing along with me.
+Next, open the `code-solo.html` file and complete the tasks. This time we will do it together! As I write code, you should also be writing along with me. 
 
 ## Exit Ticket & Closing
 
